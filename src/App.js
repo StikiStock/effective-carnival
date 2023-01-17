@@ -6,7 +6,6 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <LoginCard classN />
     </div>
   );
 }
