@@ -1,6 +1,7 @@
 import React from 'react';
 import Header from './mainHeader';
-import LoginCard from './cards';
+import Card from './cards';
+
 
 function App() {
   return (
