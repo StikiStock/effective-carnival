@@ -2,7 +2,7 @@
 module.exports = {
   mode: 'jit',
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
-  important: true,
+  // important: true,
   theme: {
     extend: {
       backgroundImage: {
